@@ -4,4 +4,6 @@
 * [Linux](Linux/README.md)
 * [React](React/README.md)
 * [Scheme](Scheme/README.md)
+* [位操作](Bit/README.md)
+* [Git](Git/README.md)
 * [软技能](软技能/README.md)
