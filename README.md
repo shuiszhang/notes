@@ -1,5 +1,6 @@
 ## notes
 * [JavaScript](JavaScript/README.md)
+* [CSS](CSS/README.md)
 * [Lambda](Lambda/README.md)
 * [Linux](Linux/README.md)
 * [React](React/README.md)
