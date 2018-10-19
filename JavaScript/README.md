@@ -11,6 +11,9 @@
 * [JS 中可以提升幸福度的小技巧](https://juejin.im/post/5b51e5d3f265da0f4861143c)
 * [了解一些额外知识，让前端开发锦上添花](https://segmentfault.com/a/1190000015374552)
 * [浏览器输入URL到展示页面全过程](https://juejin.im/post/5b3aecd6f265da62ed1080fe)
+* [解读Promise内部实现原理](https://juejin.im/post/5a30193051882503dc53af3c)
+* [Promise详解与实现（Promise/A+规范）](https://www.jianshu.com/p/459a856c476f)
+* [JS Promise的实现原理](http://bruce-xu.github.io/blogs/js/promise)
 
 ### 性能优化
 * [前端性能优化最佳实践](https://csspod.com/frontend-performance-best-practices/)
@@ -36,6 +39,7 @@
 
 ### book
 * [Interview Map](https://yuchengkai.cn/docs/zh/frontend)
+* [读书总结](https://mzkmzk.gitbooks.io/read/content/)
 
 ### 博客文集
 * [天猫前端博客](https://github.com/tmallfe/tmallfe.github.io/issues)
