@@ -14,6 +14,8 @@
 * [解读Promise内部实现原理](https://juejin.im/post/5a30193051882503dc53af3c)
 * [Promise详解与实现（Promise/A+规范）](https://www.jianshu.com/p/459a856c476f)
 * [JS Promise的实现原理](http://bruce-xu.github.io/blogs/js/promise)
+* [深入理解 new 操作符](http://www.cnblogs.com/onepixel/p/5043523.html)
+* [JavaScript深入之new的模拟实现](https://segmentfault.com/a/1190000009286643)
 
 ### 性能优化
 * [前端性能优化最佳实践](https://csspod.com/frontend-performance-best-practices/)
@@ -47,3 +49,4 @@
 * [QQ音乐前端博客](https://musicfe.cn/index)
 * [abbshr.github.io](https://github.com/abbshr/abbshr.github.io/issues)
 * [前端最实用书签](https://segmentfault.com/a/1190000016420985)
+* [JavaScript深入系列、JavaScript专题系列、ES6系列、React系列](https://github.com/mqyqingfeng/Blog)
