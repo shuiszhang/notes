@@ -2,7 +2,7 @@
 
 ### centos 管理
 * 安装最新版的 nodejs
-  * 卸载老版本的 nodejs 及 npm: 
+  * 卸载老版本的 nodejs 及 npm:
     * `yum uninstall nodejs`
   * 安装新版本的 nodejs:
     * `curl -sL https://rpm.nodesource.com/setup_10.x | bash -`
@@ -16,7 +16,7 @@
     * `yum install mysql-community-server`
   * 启动
     * `service mysqld start`
-  * 安装后默认有 root 用户，使用如下命令查找密码 
+  * 安装后默认有 root 用户，使用如下命令查找密码
     * `grep 'temporary password' /var/log/mysqld.log`
   * 登录
     * `mysql -uroot -p`
@@ -28,5 +28,13 @@
   * 授权远程访问
     * `GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY '密码' WITH GRANT OPTION;`
     * `flush privileges;`
+
+* 修改时区
+  * 进入 `/etc` 目录，`ls -l` 可以看到当前的 `localtime` 文件：
+    * `localtime -> ../usr/share/zoneinfo/America/New_York`
+  * 修改为正确的时区
+    * `ln -sf ../usr/share/zoneinfo/Asia/Shanghai localtime`
+  * 查看本机时间
+    * `date -R`
 ### book
 * [The Linux Command Line](http://billie66.github.io/TLCL/book/index.html)
